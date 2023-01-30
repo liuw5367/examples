@@ -1,3 +1,3 @@
 # examples
 
-- [dva完善TypeScript类型](./frontend/dva-ts-vite/README.md)
+- [dva完善TypeScript类型](./frontend/dva-ts-vite)
