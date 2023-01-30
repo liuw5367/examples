@@ -1,0 +1,1 @@
+依赖库为 dva-core 非 dva，因为 dva 中依赖了 react-router5 。这里参照 Umi4，添加 DvaRoot 组件来支持
